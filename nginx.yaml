@@ -18,8 +18,8 @@ spec:
         name: nginx-to-scaleout
         resources:
           limits:
-            cpu: 400m
+            cpu: 500m
             memory: 512Mi
           requests:
-            cpu: 400m
+            cpu: 500m
             memory: 512Mi
